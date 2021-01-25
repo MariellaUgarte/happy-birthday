@@ -4,7 +4,7 @@ html {
 
 body {
   margin: 0;
-  background-color: #E2E5F9;
+  background-color: #DCDFF5;
   color: white;
   font-family: "Work Sans", sans-serif;
 }
@@ -128,8 +128,8 @@ body {
 .six .hat {
   position: absolute;
   width: 80px;
-  top: -35px;
-  left: 131.5%;
+  top: -20px;
+  left: -131.5%;
   /* transform: scale(0.1); */
 }
 
