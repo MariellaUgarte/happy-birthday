@@ -123,6 +123,11 @@ body {
   max-width: 100%;
   height: auto;
 }
+.six .lydia-dp{
+  display: inline-block;
+  max-width: 50%;
+  height: auto;
+}
 
 .six .hat {
   position: absolute;
