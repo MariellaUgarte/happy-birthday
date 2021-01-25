@@ -114,6 +114,8 @@ body {
 
 .six {
   position: relative;
+  width : 60%;
+  height: auto;
 }
 
 .six img {
